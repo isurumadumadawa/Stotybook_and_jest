@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginBottom": 20,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9ca5ab",
+          "fontSize": 18,
+          "marginBottom": 10,
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9ca5ab",
+          "fontSize": 13,
+          "marginTop": 5,
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

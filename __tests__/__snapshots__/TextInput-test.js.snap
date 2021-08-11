@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "marginBottom": 20,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9ca5ab",
+          "fontSize": 18,
+          "marginBottom": 10,
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    rejectResponderTermination={true}
+    style={
+      Array [
+        Object {
+          "fontSize": 14,
+          "fontWeight": "500",
+          "paddingBottom": 10,
+        },
+      ]
+    }
+    underlineColorAndroid="transparent"
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#c6c6c6",
+          "height": 1,
+        },
+      ]
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#9ca5ab",
+          "fontSize": 13,
+          "marginTop": 5,
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
